@@ -16,5 +16,6 @@ function readfilesync(filepath) {
   function display() {
     const task = readfilesync(filepath);
     console.log("TASKS:");
+    console.log(``);
   }
 }
