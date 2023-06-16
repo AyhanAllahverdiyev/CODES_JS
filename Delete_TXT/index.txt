@@ -1,0 +1,4 @@
+task 1: Learn Node js
+ task 2: Study and finish university with a good degree
+ task 3: Eat healty
+ task 4: become rich
